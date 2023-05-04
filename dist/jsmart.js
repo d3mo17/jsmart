@@ -1,12 +1,12 @@
 /*!
- * jSmart JavaScript template engine (v4.1.0)
+ * jSmart JavaScript template engine (v4.3.0)
  * https://github.com/umakantp/jsmart
  *
  * Copyright 2011-2021, Umakant Patil <me at umakantpatil dot com>
  *                      Max Miroshnikov <miroshnikov at gmail dot com>
  * https://opensource.org/licenses/MIT
  *
- * Date: 2023-05-04T21:36Z
+ * Date: 2023-05-04T21:45Z
  */
 (function (factory) {
   'use strict'
@@ -2378,7 +2378,7 @@
       }
     }
   }
-var version = '4.1.0'
+var version = '4.3.0'
 
   /*
    Define jsmart constructor. jSmart object just stores,
